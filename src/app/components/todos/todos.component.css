@@ -1,0 +1,15 @@
+/* label {
+  margin-bottom: 0;
+} */
+
+.form-check-input {
+  margin: 0 0 0 .3em;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+.clickable {
+  cursor: pointer;
+}
